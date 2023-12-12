@@ -9,7 +9,7 @@
 This is a repository to prepare the evaluation of the __School 1337__ project __Born2beRoot__.
 All the contents of this `REAMDME.md` are listed to help during the evaluation of the project, with useful commands, code and the explanation of functionalities and tasks that will be tested.
 
-For more details about this project, read the [subject](https://github.com/PublioElio/School-42-Born2beroot/blob/main/Born2beRoot.es.subject.pdf).
+For more details about this project, read the [subject](https://github.com/Serghini04/Born2beroot/blob/master/en.subject.pdf).
 
 ## Table of contens
 1. [Why a virtual machine(VM)?](#why-a-virtual-machinevm)
