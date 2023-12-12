@@ -1,12 +1,13 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/7hJZcKzjIufeOmqKSj" width="250"/>
+  <img src="https://giphy.com/gifs/grandma-grandmother-offline-granny-7hJZcKzjIufeOmqKSj" width="250"/>
 </div>
 
 <h1 align="center">Born2beRoot</h1>
 
+
 > School 1337 cursus project
 
-This is a repository to prepare the evaluation of the __School 1337__ project __Born2beRoot__.
+This is a repository to prepare the evaluation of the __School 42__ project __Born2beRoot__.
 All the contents of this `REAMDME.md` are listed to help during the evaluation of the project, with useful commands, code and the explanation of functionalities and tasks that will be tested.
 
 For more details about this project, read the [subject](https://github.com/PublioElio/School-42-Born2beroot/blob/main/Born2beRoot.es.subject.pdf).
