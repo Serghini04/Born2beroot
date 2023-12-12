@@ -1,9 +1,8 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/grandma-grandmother-offline-granny-7hJZcKzjIufeOmqKSj" width="250"/>
+  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="250"/>
 </div>
 
 <h1 align="center">Born2beRoot</h1>
-
 
 > School 1337 cursus project
 
