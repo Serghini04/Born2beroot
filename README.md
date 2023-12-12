@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif" width="250"/>
+  <a href="https://1gbits.com/blog/debian-vs-centos/"><img src="https://github.com/PublioElio/School-42-Born2beroot/blob/main/img/CENTOS_vs_DEBIAN.png" alt="comparison between CENTOS and DEBIAN"/></a>
 </div>
 
 <h1 align="center">Born2beRoot</h1>
