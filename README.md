@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/thisgifishaunted-halloween-woo-happy-opDRL3H2A9iLNuvbOv/fullscreen" width="250"/>
-</div>
+<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/7hJZcKzjIufeOmqKSj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/grandma-grandmother-offline-granny-7hJZcKzjIufeOmqKSj">via GIPHY</a></p>
 
 <h1 align="center">Born2beRoot</h1>
 
