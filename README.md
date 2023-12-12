@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/7hJZcKzjIufeOmqKSj" width="250"/>
+  <img src=https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif" width="250"/>
 </div>
 
 <h1 align="center">Born2beRoot</h1>
